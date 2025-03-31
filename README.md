@@ -39,14 +39,28 @@ Process-oriented approach.
 Because it ensures the final product meets the required standards.
 
 ## 6. How does defining the project scope contribute to successful project planning? What is a Work Breakdown Structure (WBS), and why is it useful?
-Because it 
+Because it defines project boundaries and list deliverables and objectives.
+WBS is a visual representation of the project scope, it is useful because it ensures a structured approach to project planning, execution, and monitoring.
 
-## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist inDefine project boundaries.
+## 7. What are the benefits of developing a detailed project schedule, and how can Gantt charts assist in this process.
+It ensures timely delivery in project software development and also ensures that milestones are met
+Gantt charts can assist through tracking of progress and identification of any delay.
 
-- List deliverables and objectives. this process?
 ## 8. What are the core issues that your software aims to address? Why are these problems significant to your target audience?
+Unclear project goals, lack of communication, software quality.
+They may lead to delayed project timelines or poor software quality and so forth
+
 ## 9. How can clearly defining the problem help in developing a more effective software solution?
+it helps gather the right requirements, ensuring that the solution meets the actual needs of the users.
+
 ## 10. How would you describe your software solution in a way that captures its essence without diving into technical details?
+Explain how your software directly addresses the problem mentioned and highlight the key features and functionalities that make your solution effective.
+
 ## 11. What are the main features or functionalities that make your software stand out?
+Simple user interface, security and compliance, capabilty
+
 ## 12. What data is available regarding the market size and growth potential for your software?
+market trends and target audience
+
 ## 13. How can understanding market trends inform your software’s positioning and development?
+This can be used to identify opportunities, and may allow for development of a unique selling position
